@@ -1,4 +1,5 @@
 # data_scientist
+# Type_conversion
 # Definition of savings and result
 savings = 100\
 result = 100 * 1.10 ** 7
