@@ -1,6 +1,6 @@
 # data_scientist
 # Definition of savings and result
-savings = 100 /
+savings = 100\
 result = 100 * 1.10 ** 7
 
 # Fix the printout
